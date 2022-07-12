@@ -1,4 +1,4 @@
-### Oi, eu sou o Matheus Peixoto 👋
+# Oi, eu sou o Matheus Peixoto 👋
 
 - 🎓 Este perfil é dedicado aos meus estudos de Ciência da Computação na Universidade Federal de Viçosa (UFV) - Florestal
 - 💬 Linguagens atualmente utilizadas no curso:
