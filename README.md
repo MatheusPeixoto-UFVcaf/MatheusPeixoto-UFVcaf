@@ -16,7 +16,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MatheusPeixoto-UFVcaf&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
 </div>
 
-## Contate-me 🤝
+## Contacte-me 🤝
 <div> 
   
   <a href="https://www.instagram.com/matheus_n_pxt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
