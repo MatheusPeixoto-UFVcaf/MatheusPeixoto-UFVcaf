@@ -4,7 +4,7 @@
 - 💬 Linguagens atualmente utilizadas no curso:
       Python, C, Verilog
 
-<div style="display: inline_block"><br>
+<div align="center"&style="display: inline_block"><br>
   <img align="center" alt="Math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Math-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
  <img align="center" alt="Math-Verilog" height="30" width="100" src="https://www.isotel.eu/_images/icaruslg.png">
